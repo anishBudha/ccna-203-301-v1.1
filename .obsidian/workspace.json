@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "day02-interfaces-and-cables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "day02-interfaces-and-cables"
             }
           }
         ],
@@ -216,19 +216,24 @@
   },
   "active": "130cfe71133861af",
   "lastOpenFiles": [
+    "media/Pasted image 20251209121649.png",
+    "media/Pasted image 20251209121616.png",
+    "media/Pasted image 20251209121233.png",
+    "media/Pasted image 20251209120426.png",
+    "media/Pasted image 20251209120106.png",
+    "media/Pasted image 20251209115713.png",
+    "media/Pasted image 20251209115534.png",
+    "media/Pasted image 20251209115259.png",
     "day02-interfaces-and-cables.md",
-    "day01-lesson-packet-tracer.md",
     "README.md",
+    "media/Pasted image 20251209115438.png",
+    "media/Pasted image 20251209115007.png",
+    "media/Pasted image 20251209115237.png",
+    "media",
+    "day01-lesson-packet-tracer.md",
     "CCNA_200-301_v1.1.md",
     "fundamentals_of_ethernet_LANS.md",
     "network-architecture.md",
-    "images/825dfeed-5f9b-4e08-8b03-49ad57fe45a3-tldrawFile.png",
-    "images/9fbd74cb-dbe6-435d-9be4-4fc299d2f78e-tldrawFile.png",
-    "images/6d0ae83e-9f8d-470b-a9b6-2d47bf5fea24-tldrawFile.png",
-    "images/0db217ac-93c6-4152-b8a5-9c41987eafd2-tldrawFile.png",
-    "images/4dec6427-d1e9-47a9-b9d1-05b432dda1b2-Screenshot-2025-12-05-at-7-29-56-AM-png.png",
-    "images/a3b53938-fb47-4e45-a66f-bc096747e02e-tldrawFile.png",
-    "images/a5bb8f05-9886-43b2-a11d-b466cce63ff5-Pasted-Graphic-1-png.png",
     "images",
     "Drawing 2025-12-05 07.19.31.excalidraw.md",
     "Drawing 2025-12-05 07.14.53.excalidraw.md",
