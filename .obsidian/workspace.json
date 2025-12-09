@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "60890954460064a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ef6b2a1b3573916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e855059e2780c710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "0cd6024f3a9c3e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day01-lesson-packet-tracer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day01-lesson-packet-tracer"
+            }
+          },
+          {
+            "id": "130cfe71133861af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a557e15f95e2c741",
+    "type": "split",
+    "children": [
+      {
+        "id": "99813c55e4bc4019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d33e94df5e02fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a60fda269534e51c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6409ac518e2e4c4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "51fc00a0806aa2f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd5603dc62ef93a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f0a635b0700d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "network-architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for network-architecture"
+            }
+          },
+          {
+            "id": "03208cc53751c81e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "network-architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from network-architecture"
+            }
+          },
+          {
+            "id": "33ae68425d040c1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b624516c8b66b926",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1be706c61377a3b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "network-architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of network-architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "tldraw:Create new tldrawing": false
+    }
+  },
+  "active": "130cfe71133861af",
+  "lastOpenFiles": [
+    "day02-interfaces-and-cables.md",
+    "day01-lesson-packet-tracer.md",
+    "README.md",
+    "CCNA_200-301_v1.1.md",
+    "fundamentals_of_ethernet_LANS.md",
+    "network-architecture.md",
+    "images/825dfeed-5f9b-4e08-8b03-49ad57fe45a3-tldrawFile.png",
+    "images/9fbd74cb-dbe6-435d-9be4-4fc299d2f78e-tldrawFile.png",
+    "images/6d0ae83e-9f8d-470b-a9b6-2d47bf5fea24-tldrawFile.png",
+    "images/0db217ac-93c6-4152-b8a5-9c41987eafd2-tldrawFile.png",
+    "images/4dec6427-d1e9-47a9-b9d1-05b432dda1b2-Screenshot-2025-12-05-at-7-29-56-AM-png.png",
+    "images/a3b53938-fb47-4e45-a66f-bc096747e02e-tldrawFile.png",
+    "images/a5bb8f05-9886-43b2-a11d-b466cce63ff5-Pasted-Graphic-1-png.png",
+    "images",
+    "Drawing 2025-12-05 07.19.31.excalidraw.md",
+    "Drawing 2025-12-05 07.14.53.excalidraw.md",
+    "Tldraw 2025-12-05 7.13AM.md",
+    "Network Architectures.md",
+    "Drawing 2025-12-05 06.59.14.excalidraw.md",
+    "Drawing 2025-12-05 07.01.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-05 06.59.46.excalidraw.md",
+    "Untitled.base",
+    "Excalidraw",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,2 @@
+- Installing and configuring Cisco Packet Tracer
+- Figuring out the UI
