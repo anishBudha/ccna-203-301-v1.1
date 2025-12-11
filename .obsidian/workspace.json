@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "day02-interfaces-and-cables"
             }
+          },
+          {
+            "id": "2615fdf5831cf0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "day03-tcp-ip-model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "day03-tcp-ip-model"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,21 +228,22 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "130cfe71133861af",
+  "active": "2615fdf5831cf0fc",
   "lastOpenFiles": [
+    "media/Pasted image 20251211001528.png",
+    "media/Pasted image 20251211001000.png",
+    "media/Pasted image 20251211000454.png",
+    "media/Pasted image 20251210224756.png",
+    "media/Pasted image 20251210224112.png",
+    "day02-interfaces-and-cables.md",
+    "day03-tcp-ip-model.md",
+    "media/Pasted image 20251209122715.png",
     "media/Pasted image 20251209121649.png",
     "media/Pasted image 20251209121616.png",
     "media/Pasted image 20251209121233.png",
     "media/Pasted image 20251209120426.png",
     "media/Pasted image 20251209120106.png",
-    "media/Pasted image 20251209115713.png",
-    "media/Pasted image 20251209115534.png",
-    "media/Pasted image 20251209115259.png",
-    "day02-interfaces-and-cables.md",
     "README.md",
-    "media/Pasted image 20251209115438.png",
-    "media/Pasted image 20251209115007.png",
-    "media/Pasted image 20251209115237.png",
     "media",
     "day01-lesson-packet-tracer.md",
     "CCNA_200-301_v1.1.md",

@@ -39,3 +39,5 @@
 - ![](media/Pasted%20image%2020251209121616.png)
 - ![](media/Pasted%20image%2020251209121649.png)
 - To connect multiple hosts available in the shorter distance like an office building, use UTP cable, sinces switches do not have enough SFP interfaces to support many end hosts.
+### Lab
+- connecting routers, switches and end hosts with proper cable, Cross over or straight through cables.
