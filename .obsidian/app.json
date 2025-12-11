@@ -1,5 +1,6 @@
 {
   "newLinkFormat": "relative",
   "attachmentFolderPath": "media",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "vimMode": true
 }
